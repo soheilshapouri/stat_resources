@@ -1,3 +1,6 @@
+**Data Sources**
+
+**United States**:
 **General Social Survey**   
 link:  http://sda.berkeley.edu.  
 Survey - based on representative samples of Americans   
@@ -9,3 +12,11 @@ the way the survey was taken.
 **Current Population Survey (CPS)**  
 www.census.gov/cps  
 a comprehensive body of data on the labor force, unemployment, wealth, poverty, and so on.  
+
+
+**Cross-cultural**:
+https://www.oecdbetterlifeindex.org/ 
+
+
+News 
+https://eventregistry.org/
