@@ -1,6 +1,11 @@
 **Data Sources**
 
-**United States**:
+**Cross-cultural**:  
+https://www.oecdbetterlifeindex.org/   
+https://data.worldbank.org/  
+
+
+**United States**:  
 **General Social Survey**   
 link:  http://sda.berkeley.edu.  
 Survey - based on representative samples of Americans   
@@ -14,11 +19,8 @@ www.census.gov/cps
 a comprehensive body of data on the labor force, unemployment, wealth, poverty, and so on.  
 
 
-**Cross-cultural**:  
-https://www.oecdbetterlifeindex.org/   
-https://data.worldbank.org/  
 
 
-
-News 
+**Other sources**:  
+News
 https://eventregistry.org/
