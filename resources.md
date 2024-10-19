@@ -18,6 +18,9 @@ the way the survey was taken.
 www.census.gov/cps  
 a comprehensive body of data on the labor force, unemployment, wealth, poverty, and so on.  
 
+**Finding data**:  
+Kaggle.com/datasets
+
 
 
 
